@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou [Seu Nome]</h1>
 
-<!--
-**YuriMFernandes/YuriMFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor | 📊 Dados & Economia | 🚀 Criando soluções inteligentes  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou um desenvolvedor apaixonado por tecnologia, dados e soluções bem estruturadas.  
+Gosto de transformar problemas complexos em sistemas organizados, eficientes e visualmente elegantes.
+
+Atualmente focado em:
+
+- 📊 Análise de Dados
+- 📈 Indicadores Econômicos
+- 🐍 Python & Back-end
+- 🌐 Desenvolvimento Web
+- 📉 Visualização de Dados
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+```bash
+💻 Linguagens: Python, JavaScript, SQL
+🌐 Front-end: HTML, CSS
+⚙️ Back-end: Flask / APIs
+📊 Dados: Pandas, NumPy, Matplotlib
+🗄️ Banco de Dados: SQLite / PostgreSQL
+🛠️ Versionamento: Git & GitHub
