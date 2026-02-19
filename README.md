@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou [Seu Nome]</h1>
+<h1 align="center">👋 Olá, eu sou Yuri Melito</h1>
 
 <p align="center">
   💻 Desenvolvedor | 📊 Dados & Economia | 🚀 Criando soluções inteligentes  
